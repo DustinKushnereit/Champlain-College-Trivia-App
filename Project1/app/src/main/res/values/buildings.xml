@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="buildings_question_371main">Which one is 371 Main?</string>
+    <string name="buildings_question_baderhall">Which one is Bader Hall?</string>
+    <string name="buildings_question_bankushall">Which one is Bankus Hall?</string>
+    <string name="buildings_question_carriagehouse">Which one is Carriage House?</string>
+
+    <string name="buildings_question_this_is_what">This is what?</string>
+
+    <string name="buildings_question_cushinghall">Cushing Hall</string>
+    <string name="buildings_question_hillhall">Hill Hall</string>
+    <string name="buildings_question_jensenhall">Jensen Hall</string>
+    <string name="buildings_question_lymanhall">Lyman Hall</string>
+
+    <string name="buildings_question_name">Enter The Name:</string>
+
+</resources>

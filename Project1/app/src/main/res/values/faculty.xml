@@ -1,0 +1,22 @@
+<resources>
+    <string name="faculty_pic_id_ferguson">faculty_fergusonjonathan.jpg</string>
+    <string name="faculty_question_ferguson">Who is Johnathan Ferguson?</string>
+
+    <string name="faculty_pic_id_bemis">faculty_bemisgreg.jpg</string>
+    <string name="faculty_question_bemis">Who is Greg Bemis?</string>
+
+    <string name="faculty_pic_id_mayer">faculty_bobmayer.jpg</string>
+    <string name="faculty_question_mayer">Who is Bob Mayer?</string>
+
+    <string name="faculty_pic_id_chen">faculty_chen.jpg</string>
+    <string name="faculty_question_chen">Who is Wei Chen?</string>
+
+    <string name="faculty_question_this_is_who">This is who?</string>
+    <string name="faculty_question_hall">Brian Hall</string>
+    <string name="faculty_question_lange">Michael Lange</string>
+    <string name="faculty_question_lawson">Dean Lawson</string>
+    <string name="faculty_question_manley">Joesph Manley</string>
+
+    <string name="faculty_question_enter_last_name">Enter Last Name:</string>
+
+</resources>

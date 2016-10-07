@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="burlington_question_ben_and_jerrys">Which one is Ben and Jerrys?</string>
+    <string name="burlington_question_centennial_field">Which one is Centennial Field?</string>
+    <string name="burlington_question_church_street">Which one is Church Street?</string>
+    <string name="burlington_question_farmers_market">Which one is Farmers Market?</string>
+
+    <string name="burlington_question_this_is_what">This is what?</string>
+
+    <string name="burlington_question_macys_mall">Macys Mall</string>
+    <string name="burlington_question_main_street">Main Street</string>
+    <string name="burlington_question_mr_mikes">Mr Mikes</string>
+    <string name="burlington_question_adog_skate_park">A-Dog Skate Park</string>
+
+    <string name="burlington_question_name">Enter The Name:</string>
+</resources>
